@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Juan Soldán",
+    "email": "juan45@mail.com",
+    "edad": "56"
+  },
+  {
+    "nombre": "Carlos Pérez",
+    "email": "carlos.perez@mail.com",
+    "edad": "34"
+  },
+  {
+    "nombre": "María López",
+    "email": "maria.lopez@mail.com",
+    "edad": "29"
+  },
+  {
+    "nombre": "Ana García",
+    "email": "ana.garcia@mail.com",
+    "edad": "42"
+  }
+]
