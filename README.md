@@ -30,7 +30,7 @@ La seguridad y la autenticación de usuarios se gestionan a través de JWT, lo q
 
 Puedes clonar el repositorio del proyecto desde GitHub con el siguiente comando:
 
-[git clone https://github.com/GonzaloLlatser/PruebaTecnica2024-480.git](https://github.com/GonzaloLlatser/PruebaTecnica2024-480.git)
+git clone https://github.com/GonzaloLlatser/PruebaTecnica2024-25-480.git
 
 ### Requisitos previos
 
